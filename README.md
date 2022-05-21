@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 Hey Everyone! I am Richard, a Full Stack Developer from Uganda. I like working with Java (both Quarkus and SpringBoot), Angular, Bootstrap, JavaScript, TypeScript, and Python.
-* 🌍  I'm based in Kampaa, Uganda
+* 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [My portfolio](http://rmatovu.com)
 * ✉️  You can contact me at [rmatovu987@gmail.com](mailto:rmatovu987@gmail.com)
 * 🚀  I'm currently working on [something that is still a secret](http://github.com/rmatovu987)
