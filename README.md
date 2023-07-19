@@ -9,9 +9,9 @@ Hey Everyone! I am Richard, a Full Stack Developer from Uganda. I like working w
 * 🖥️  See my portfolio at [My portfolio](http://rmatovu.com)
 * ✉️  You can contact me at [rmatovu987@gmail.com](mailto:rmatovu987@gmail.com)
 * 🚀  I'm currently working on [something that is still a secret](http://github.com/rmatovu987)
-* 🧠  I'm learning the Software Engineering course offered by [ALX Africa](https://www.alxafrica.com/) accredited by Holberton School - School of Computing, USA.
-* 🤝  I'm open to collaborating on Java projects, Angular projects
-* ⚡  I am the next big thing.... Let's keep this between us for now
+* 🧠  I studied Software Engineering from [ALX Africa](https://www.alxafrica.com/) accredited by Holberton School - School of Computing, USA.
+* 🤝  I'm open to collaborating on Java projects, Angular projects, Ruby projects
+* ⚡  I am the next big thing... Let's keep this between us for now
 
 ### Skills
 
